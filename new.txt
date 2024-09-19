@@ -1,0 +1,554 @@
+Day-1:
+1. Course Roadmap and Projects.mp4       02:57
+2. Building Our First React App!.mp4     18:52
+3. Watch Before You Start!.mp4           05:24
+5. Downloading Course Material.mp4       03:34
+1. Introduction to Part 1.mp4            00:55
+1. Section Overview.mp4                  00:39
+2. Why Do Front-End Frameworks Exist.mp4 10:27
+3. React vs. Vanilla JavaScript.mp4      07:08
+4. What is React.mp4                     09:17
+
+Day-2:
+5. Setting Up Our Development Environment.mp4 08:47
+6. Pure React.mp4                        14:49
+7. A Quick Look at React's Official Documentation.mp4 03:16
+8. Setting Up a New React Project The Options.mp4 07:41
+9. Setting Up a Project With Create-React-App.mp4 12:48
+1. Section Overview.mp4                  00:55
+2. Destructuring Objects and Arrays.mp4  10:58
+
+Day-3:
+3. RestSpread Operator.mp4               09:53
+4. Template Literals.mp4                 04:50
+5. Ternaries Instead of ifelse Statements.mp4 05:49
+6. Arrow Functions.mp4                   04:59
+7. Short-Circuiting And Logical Operators &&, , .mp4 10:32
+8. Optional Chaining.mp4                 06:30
+9. The Array map Method.mp4              08:35
+10. The Array filter Method.mp4          08:36
+
+Day-4:
+11. The Array reduce Method.mp4          07:20
+12. The Array sort Method.mp4            06:38
+13. Working With Immutable Arrays.mp4    11:06
+14. Asynchronous JavaScript Promises.mp4 08:11
+15. Asynchronous JavaScript AsyncAwait.mp4 07:30
+1. Section Overview.mp4                  00:54
+2. Rendering the Root Component and Strict Mode.mp4 07:25
+3. Before We Start Coding Debugging.mp4  09:46
+
+Day-5:
+4. Components as Building Blocks.mp4     04:34
+5. Creating And Reusing a Component.mp4  09:40
+6. What is JSX.mp4                       06:25
+7. Creating More Components.mp4          08:07
+8. JavaScript Logic in Components.mp4    04:26
+9. Separation of Concerns.mp4            05:57
+10. Styling React Applications.mp4       12:17
+
+Day-6:
+11. Passing and Receiving Props.mp4      09:08
+12. Props, Immutability, and One-Way Data Flow.mp4 07:09
+13. CHALLENGE #1 Profile Card (v1).mp4   17:25
+14. The Rules of JSX.mp4                 03:37
+15. Rendering Lists.mp4                  11:24
+16. Conditional Rendering With &&.mp4    09:16
+
+Day-7:
+17. Conditional Rendering With Ternaries.mp4 04:45
+18. Conditional Rendering With Multiple Returns.mp4 05:03
+19. Extracting JSX Into a New Component.mp4 04:32
+20. Destructuring Props.mp4              04:52
+21. React Fragments.mp4                  05:36
+22. Setting Classes and Text Conditionally.mp4 08:00
+23. Section Summary.mp4                  05:33
+24. CHALLENGE #2 Profile Card (v2).mp4   08:15
+1. Section Overview.mp4                  01:02
+
+Day-8:
+2. Let's Build a Steps Component.mp4     14:48
+3. Handling Events the React Way.mp4     07:21
+4. What is State in React.mp4            06:08
+5. Creating a State Variable With useState.mp4 09:07
+6. Don't Set State Manually!.mp4         05:17
+7. The Mechanics of State.mp4            04:51
+8. Adding Another Piece of State.mp4     08:36
+
+Day-9:
+9. React Developer Tools.mp4             06:09
+10. Updating State Based on Current State.mp4 05:16
+11. More Thoughts About State + State Guidelines.mp4 06:33
+12. A Vanilla JavaScript Implementation.mp4 06:34
+13. CHALLENGE #1 Date Counter (v1).mp4   13:09
+14. Starting a New Project The Far Away Travel List.mp4 04:08
+15. Building the Layout.mp4              08:54
+16. Rendering the Items List.mp4         08:42
+
+Day-10:
+17. Building a Form and Handling Submissions.mp4 11:55
+18. Controlled Elements.mp4              18:26
+19. State vs. Props.mp4                  03:30
+20. EXERCISE #1 Flashcards.mp4           13:56
+21. CHALLENGE #2 Date Counter (v2).mp4   10:31
+1. Section Overview.mp4                  00:58
+
+Day-11:
+2. What is Thinking in React.mp4         04:59
+3. Fundamentals of State Management.mp4  09:24
+4. Thinking About State and Lifting State Up.mp4 14:41
+5. Reviewing Lifting Up State.mp4        06:25
+6. Deleting an Item More Child-to-Parent Communication!.mp4 08:14
+7. Updating an Item Complex Immutable Data Operation.mp4 07:43
+8. Derived State.mp4                     03:03
+
+Day-12:
+9. Calculating Statistics as Derived State.mp4 10:43
+10. Sorting Items.mp4                    10:48
+11. Clearing the List.mp4                05:03
+12. Moving Components Into Separate Files.mp4 08:53
+13. EXERCISE #1 Accordion Component (v1).mp4 14:15
+
+Day-13:
+14. The children Prop Making a Reusable Button.mp4 16:10
+15. More Reusability With the children Prop.mp4 08:12
+16. EXERCISE #2 Accordion Component (v2).mp4 10:15
+17. CHALLENGE #1 Tip Calculator.mp4      22:09
+1. Section Overview.mp4                  00:55
+
+Day-14:
+2. Project Setup.mp4                     03:52
+3. Building the Static App List of Friends.mp4 12:01
+4. Building the Static App Forms.mp4     09:27
+5. Displaying the New Friend Form.mp4    06:33
+6. Adding a New Friend.mp4               18:38
+
+Day-15:
+7. Selecting a Friend.mp4                15:02
+8. Creating Controlled Elements.mp4      09:53
+9. Splitting a Bill.mp4                  12:47
+1. Introduction to Part 2.mp4            01:15
+1. Section Overview.mp4                  01:00
+2. Setting Up the usePopcorn Project.mp4 04:10
+3. How to Split a UI Into Components.mp4 12:35
+
+Day-16:
+4. Splitting Components in Practice.mp4  23:57
+5. Component Categories.mp4              02:42
+6. Prop Drilling.mp4                     07:31
+7. Component Composition.mp4             04:50
+8. Fixing Prop Drilling With Composition (And Building a Layout).mp4 08:49
+9. Using Composition to Make a Reusable Box.mp4 06:30
+10. Passing Elements as Props (Alternative to children).mp4 04:44
+
+Day-17:
+11. Building a Reusable Star Rating Component.mp4 11:22
+12. Creating the Stars.mp4               13:04
+13. Handling Hover Events.mp4            07:43
+14. Props as a Component API.mp4         04:28
+15. Improving Reusability With Props.mp4 19:27
+
+Day-18:
+16. PropTypes.mp4                        07:24
+17. CHALLENGE #1 Text Expander Component.mp4 18:20
+1. Section Overview.mp4                  01:55
+2. Project Setup and Walkthrough.mp4     11:11
+3. Components, Instances, and Elements.mp4 05:09
+4. Instances and Elements in Practice.mp4 07:53
+5. How Rendering Works Overview.mp4      06:55
+
+Day-19:
+6. How Rendering Works The Render Phase.mp4 18:28
+7. How Rendering Works The Commit Phase.mp4 11:27
+8. How Diffing Works.mp4                 05:52
+9. Diffing Rules in Practice.mp4         05:13
+10. The Key Prop.mp4                     07:41
+11. Resetting State With the Key Prop.mp4 04:02
+12. Using the Key Prop to Fix Our Eat-'N-Split App.mp4 04:07
+
+Day-20:
+13. Rules for Render Logic Pure Components.mp4 09:24
+14. State Update Batching.mp4            09:10
+15. State Update Batching in Practice.mp4 15:43
+16. How Events Work in React.mp4         13:42
+17. Libraries vs. Frameworks & The React Ecosystem.mp4 09:52
+
+Day-21:
+18. Section Summary Practical Takeaways.mp4 10:26
+1. Section Overview.mp4                  00:58
+2. The Component Lifecycle.mp4           04:31
+3. How NOT to Fetch Data in React.mp4    09:48
+4. useEffect to the Rescue.mp4           04:40
+5. A First Look at Effects.mp4           06:23
+6. Using an async Function.mp4           05:40
+7. Adding a Loading State.mp4            03:47
+8. Handling Errors.mp4                   13:02
+
+Day-22:
+9. The useEffect Dependency Array.mp4    12:17
+10. Synchronizing Queries With Movie Data.mp4 15:08
+11. Selecting a Movie.mp4                13:19
+12. Loading Movie Details.mp4            17:43
+
+Day-23:
+13. Adding a Watched Movie.mp4           26:11
+14. Adding a New Effect Changing Page Title.mp4 08:44
+15. The useEffect Cleanup Function.mp4   04:20
+16. Cleaning Up the Title.mp4            05:22
+17. Cleaning Up Data Fetching.mp4        10:16
+
+Day-24:
+18. One More Effect Listening to a Keypress.mp4 14:06
+19. CHALLENGE #1 Currency Converter.mp4  16:43
+1. Section Overview.mp4                  00:57
+2. React Hooks and Their Rules.mp4       10:55
+3. The Rules of Hooks in Practice.mp4    08:36
+
+Day-25:
+4. More Details of useState.mp4          12:30
+5. Initializing State With a Callback (Lazy Initial State).mp4 13:30
+6. useState Summary.mp4                  03:14
+7. How NOT to Select DOM Elements in React.mp4 03:38
+8. Introducing Another Hook useRef.mp4   05:36
+9. Refs to Select DOM Elements.mp4       10:09
+10. Refs to Persist Data Between Renders.mp4 10:15
+
+Day-26:
+11. What are Custom Hooks When to Create One.mp4 04:22
+12. Creating our First Custom Hook useMovies.mp4 13:02
+13. Creating useLocalStorageState.mp4    09:06
+14. Creating useKey.mp4                  08:19
+15. CHALLENGE #1 useGeolocate.mp4        07:27
+1. Section Overview.mp4                  01:16
+2. Our First Class Component.mp4         09:32
+
+Day-27:
+3. Working With Event Handlers.mp4       10:24
+4. Class Components vs. Function Components.mp4 05:37
+5. Starting the Classy Weather App.mp4   07:45
+6. Fetching Weather Data.mp4             09:39
+7. Displaying the Weather.mp4            14:10
+8. Removing Boilerplate Code With Class Fields.mp4 04:05
+9. Child to Parent Communication.mp4     04:19
+
+Day-28:
+10. Lifecycle Methods.mp4                15:36
+1. Introduction to Part 3.mp4            01:11
+1. Section Overview.mp4                  01:03
+2. Yet Another Hook useReducer.mp4       17:58
+3. Managing Related Pieces of State.mp4  12:23
+
+Day-29:
+4. Managing State With useReducer.mp4    14:13
+5. The React Quiz App.mp4                07:57
+6. Loading Questions from a Fake API.mp4 18:31
+7. Handling Loading, Error, and Ready Status.mp4 09:05
+8. Starting a New Quiz.mp4               04:54
+
+Day-30:
+9. Displaying Questions.mp4              07:45
+10. Handling New Answers.mp4             16:42
+11. Moving to the Next Question.mp4      06:22
+12. Displaying Progress.mp4              08:57
+13. Finishing a Quiz.mp4                 15:07
+
+Day-31:
+14. Restarting a Quiz.mp4                07:05
+15. Setting Up a Timer With useEffect.mp4 20:56
+16. Section Summary useState vs. useReducer.mp4 05:53
+17. CHALLENGE #1 Creating a Bank Account With useReducer.mp4 19:50
+1. Section Overview.mp4                  01:01
+
+Day-32:
+2. Creating Our First App With Vite WorldWise.mp4 15:41
+3. Routing and Single-Page Applications (SPAs).mp4 06:40
+4. Implementing Main Pages and Routes.mp4 12:15
+5. Linking Between Routes With Link  and NavLink .mp4 09:57
+6. Styling Options For React Applications.mp4 05:50
+
+Day-33:
+7. Using CSS Modules.mp4                 16:30
+8. Building the Pages.mp4                16:59
+9. Building the App Layout.mp4           08:44
+10. Nested Routes and Index Route.mp4    13:25
+
+Day-34:
+11. Implementing the Cities List.mp4     18:42
+12. Implementing the Countries List.mp4  11:07
+13. Storing State in the URL.mp4         05:31
+14. Dynamic Routes With URL Parameters.mp4 10:28
+15. Reading and Setting a Query String.mp4 10:34
+
+Day-35:
+16. Programmatic Navigation with useNavigate.mp4 11:50
+17. Programmatic Navigation with Navigate .mp4 04:12
+1. Section Overview.mp4                  00:59
+2. CHALLENGE #1 Understand The Atomic Blog App.mp4 04:22
+3. What is the Context API.mp4           05:16
+4. Creating and Providing a Context.mp4  09:26
+5. Consuming the Context.mp4             10:53
+
+Day-36:
+6. Advanced Pattern A Custom Provider and Hook.mp4 16:15
+7. Thinking In React Advanced State Management.mp4 11:38
+8. Back to WorldWise Creating a CitiesContext.mp4 08:32
+9. Consuming the CitiesContext.mp4       04:26
+10. Finishing the City View.mp4          17:58
+
+Day-37:
+11. Including a Map With the Leaflet Library.mp4 09:25
+12. Displaying City Markers on Map.mp4   05:58
+13. Interacting With the Map.mp4         13:38
+14. Setting Map Position With Geolocation.mp4 11:33
+15. Fetching City Data in the Form.mp4   17:42
+
+Day-38:
+16. Creating a New City.mp4              23:27
+17. Deleting a City.mp4                  05:37
+18. Advanced State Management System Context + useReducer.mp4 22:38
+
+Day-39:
+19. Adding Fake Authentication Setting Up Context.mp4 11:02
+20. Adding Fake Authentication Implementing Login.mp4 16:24
+21. Adding Fake Authentication Protecting a Route.mp4 11:21
+22. CHALLENGE #2 Refactoring React Quiz to Context API.mp4 08:22
+1. Section Overview.mp4                  01:03
+2. Performance Optimization and Wasted Renders.mp4 06:06
+
+Day-40:
+3. The Profiler Developer Tool.mp4       08:21
+4. A Surprising Optimization Trick With children.mp4 11:49
+5. Understanding memo.mp4                05:29
+6. memo in Practice.mp4                  13:17
+7. Understanding useMemo and useCallback.mp4 06:39
+8. useMemo in Practice.mp4               08:42
+
+Day-41:
+9. useCallback in Practice.mp4           10:09
+10. Optimizing Context Re-Renders.mp4    14:47
+11. Back to The WorldWise App.mp4        12:37
+12. Optimizing Bundle Size With Code Splitting.mp4 15:52
+13. Don't Optimize Prematurely!.mp4      02:59
+
+Day-42:
+14. useEffect Rules and Best Practices.mp4 10:01
+15. CHALLENGE #1 Fix Performance Issues in Workout Timer.mp4 12:15
+16. Setting State Based on Other State Updates.mp4 11:55
+17. Using Helper Functions In Effects.mp4 15:04
+18. Closures in Effects.mp4              09:52
+
+Day-43:
+1. Section Overview.mp4                  01:07
+2. Introduction to Redux.mp4             12:13
+3. Creating a Reducer Bank Account.mp4   10:47
+4. Creating a Redux Store.mp4            09:46
+5. Working With Action Creators.mp4      06:28
+6. Adding More State Customer.mp4        12:30
+
+Day-44:
+7. Professional Redux File Structure State Slices.mp4 11:47
+8. Back to React! Connecting our Redux App With React.mp4 05:46
+9. Dispatching Actions from Our React App.mp4 17:21
+10. The Legacy Way of Connecting Components to Redux.mp4 04:50
+11. Redux Middleware and Thunks.mp4      04:28
+
+Day-45:
+12. Making an API Call With Redux Thunks.mp4 17:50
+13. The Redux DevTools.mp4               10:21
+14. What is Redux Toolkit (RTK).mp4      03:40
+15. Creating the Store With RTK.mp4      04:37
+16. Creating the Account Slice.mp4       21:43
+
+Day-46:
+17. Back to Thunks.mp4                   05:02
+18. Creating the Customer Slice.mp4      09:14
+19. Redux vs. Context API.mp4            07:43
+1. Introduction to Part 4.mp4            01:27
+1. Section Overview.mp4                  00:51
+2. Setting Up a New Project Fast React Pizza Co..mp4 08:13
+3. Application Planning.mp4              21:24
+
+Day-47:
+4. Setting Up a Professional File Structure.mp4 08:20
+5. A New Way Of Implementing Routes.mp4  10:30
+6. Building the App Layout.mp4           11:18
+7. Fetching Data With React Router Loaders Pizza Menu.mp4 11:50
+8. Displaying a Loading Indicator.mp4    06:00
+9. Handling Errors With Error Elements.mp4 06:24
+
+Day-48:
+10. Fetching Orders.mp4                  12:40
+11. Writing Data With React Router Actions.mp4 19:03
+12. Error Handling in Form Actions.mp4   10:26
+1. Section Overview.mp4                  00:59
+2. What is Tailwind CSS.mp4              07:56
+
+Day-49:
+3. Setting Up Tailwind CSS.mp4           12:03
+4. Working With Color.mp4                08:59
+5. Styling Text.mp4                      10:00
+6. The Box Model Spacing, Borders, and Display.mp4 11:17
+7. Responsive Design.mp4                 10:48
+8. Using Flexbox.mp4                     06:31
+
+Day-50:
+9. Using CSS Grid.mp4                    12:20
+10. Styling Buttons Element States and Transitions.mp4 12:11
+11. Styling Form Elements.mp4            10:22
+12. Reusing Styles With @apply.mp4       04:28
+13. Reusing Styles With React Components.mp4 12:27
+14. Absolute Positioning, z-index, and More.mp4 06:30
+
+Day-51:
+15. Configuring Tailwind Custom Font Family.mp4 10:53
+16. Styling the Menu.mp4                 18:27
+17. Styling the Cart.mp4                 11:46
+18. Styling the Order Form.mp4           13:21
+
+Day-52:
+19. Styling the Order Overview.mp4       13:53
+1. Section Overview.mp4                  00:39
+2. Modeling the User State With Redux Toolkit.mp4 13:23
+3. Reading and Updating the User State.mp4 10:37
+4. Modeling the Cart State.mp4           14:20
+
+Day-53:
+5. Adding Menu Items to the Cart.mp4     07:06
+6. Building the Cart Overview With Redux Selectors.mp4 08:59
+7. Building the Cart Page.mp4            07:05
+8. Deleting Cart Items.mp4               14:44
+9. Updating Cart Quantities.mp4          13:32
+
+Day-54:
+10. Using the Cart for New Orders.mp4    14:30
+11. Redux Thunks With createAsyncThunk.mp4 16:04
+12. Integrating Geolocation.mp4          16:04
+13. Fetching Data Without Navigation useFetcher.mp4 12:44
+
+Day-55:
+14. Updating Data Without Navigation.mp4 14:37
+1. Section Overview.mp4                  00:54
+2. Application Planning.mp4              18:29
+3. Setting Up the Project The Wild Oasis.mp4 08:11
+4. Introduction to Styled Components.mp4 12:22
+
+Day-56:
+5. Global Styles With Styled Components.mp4 14:36
+6. Styled Component Props and the css Function.mp4 10:25
+7. Building More Reusable Styled Components.mp4 11:02
+8. Setting Up Pages and Routes.mp4       06:27
+9. Building the App Layout.mp4           14:21
+
+Day-57:
+10. Building the Sidebar and Main Navigation.mp4 13:09
+1. Section Overview.mp4                  00:46
+2. What is Supabase.mp4                  02:24
+3. Creating a New Database.mp4           05:27
+4. Modeling Application State.mp4        05:34
+5. Creating Tables.mp4                   09:31
+6. Relationships Between Tables.mp4      08:29
+7. Adding Security Policies (RLS).mp4    06:18
+
+Day-58:
+8. Connecting Supabase With Our React App.mp4 08:45
+9. Setting Up Storage Buckets.mp4        04:38
+1. Section Overview.mp4                  00:46
+2. What is React Query.mp4               06:20
+3. Setting Up React Query.mp4            07:19
+4. Fetching Cabin Data.mp4               21:41
+
+Day-59:
+5. Mutations Deleting a Cabin.mp4        17:21
+6. Displaying Toasts (Notifications).mp4 08:41
+7. Introducing Another Library React Hook Form.mp4 11:17
+8. Creating a New Cabin.mp4              12:13
+
+Day-60:
+9. Handling Form Errors.mp4              22:42
+10. Uploading Images to Supabase.mp4     14:41
+
+Day-61:
+11. Editing a Cabin.mp4                  30:39
+12. Abstracting React Query Into Custom Hooks.mp4 17:26
+13. Duplicating Cabins.mp4               06:49
+
+Day-62:
+14. Fetching Applications Settings.mp4   08:47
+15. Updating Application Settings.mp4    11:27
+1. Section Overview.mp4                  01:13
+2. An Overview of Reusability in React.mp4 05:44
+3. Setting Up an Example.mp4             06:19
+4. The Render Props Pattern.mp4          07:42
+5. A Look at Higher-Order Components (HOC).mp4 08:06
+
+Day-63:
+6. The Compound Component Pattern.mp4    18:17
+7. Building a Modal Window Using a React Portal.mp4 19:54
+8. Converting the Modal to a Compound Component.mp4 21:45
+
+Day-64:
+9. Detecting a Click Outside the Modal.mp4 13:36
+10. Confirming Cabin Deletions.mp4       08:41
+11. Building a Reusable Table.mp4        11:45
+12. Applying the Render Props Pattern.mp4 04:38
+
+Day-65:
+13. Building a Reusable Context Menu.mp4 32:35
+1. Section Overview.mp4                  01:16
+2. Client-Side Filtering Filtering Cabins.mp4 18:49
+
+Day-66:
+3. Client-Side Sorting Sorting Cabins.mp4 20:25
+4. Building the Bookings Table.mp4       17:59
+5. Uploading Sample Data.mp4             06:15
+
+Day-67:
+6. API-Side Filtering Filtering Bookings.mp4 17:10
+7. API-Side Sorting Sorting Bookings.mp4 06:53
+8. Building a Reusable Pagination Component.mp4 15:52
+9. API-Side Pagination Paginating Bookings.mp4 10:39
+10. Prefetching With React Query.mp4     07:58
+
+Day-68:
+11. Building the Single Booking Page.mp4 15:17
+12. Checking In a Booking.mp4            28:18
+13. Adding Optional Breakfast.mp4        14:04
+
+Day-69:
+14. Checking Out a Booking (+ Fixing a Small Bug).mp4 09:50
+15. Deleting a Booking.mp4               13:33
+16. Authentication User Login With Supabase.mp4 22:06
+
+Day-70:
+17. Authorization Protecting Routes.mp4  23:23
+18. User Logout.mp4                      09:00
+19. Fixing an Important Bug.mp4          05:35
+20. Building the Sign Up Form.mp4        10:59
+
+Day-71:
+21. User Sign Up.mp4                     15:01
+22. Authorization on Supabase Protecting Database (RLS).mp4 04:40
+23. Building The App Header.mp4          10:18
+24. Updating User Data and Password.mp4  28:26
+
+Day-72:
+25. Implementing Dark Mode With CSS Variables.mp4 21:29
+26. Building the Dashboard Layout.mp4    04:25
+27. Computing Recent Bookings and Stays.mp4 15:20
+28. Displaying Statistics.mp4            12:02
+
+Day-73:
+29. Displaying a Line Chart With the Recharts Library.mp4 22:55
+30. Displaying a Pie Chart.mp4           15:52
+31. Displaying Stays for Current Day.mp4 20:41
+
+Day-74:
+32. Error Boundaries.mp4                 09:44
+33. Final Touches + Fixing Bugs.mp4      14:38
+1. Section Overview.mp4                  01:09
+2. Deploying to Netlify.mp4              11:20
+3. Setting Up a Git and GitHub Repository.mp4 16:16
+4. Deploying to Vercel.mp4               05:54
+
+Day-75:
+1. Where to Go from Here.mp4             03:20
