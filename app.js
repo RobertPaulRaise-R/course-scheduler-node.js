@@ -1,10 +1,15 @@
 const fs = require("fs/promises");
 const path = require("path");
+const os = require("os");
 const getVideoFromDirectory = require("./getVideosFromDirectories");
-const getVideoLength = require("./getVideoLength");
+const {
+  getVideoLengthLinux,
+  getVideoLengthWindows,
+} = require("./getVideoLength");
 
-const courseDirectory =
-  "D:[GigaCourse.Com] Udemy - The Ultimate React Course 2023 React, Redux & More/";
+const courseDirectory = path.normalize(
+  "/run/media/raise/137ea4dd-c5a3-4777-9b9b-b91357c450be/Courses/[Udemycourses.me] - Bash Mastery The Complete Guide to Bash Shell Scripting/"
+);
 const minutes = 3600;
 
 async function main() {
@@ -18,6 +23,7 @@ async function main() {
     // console.log(videoPaths);
 
     // Get all video lengths and organize them by day
+
     const videoLengths = await getAllVideoLength(videoPaths);
 
     console.timeEnd("Starting");
@@ -35,8 +41,15 @@ async function getAllVideoLength(videos) {
   await fs.writeFile("./schedule.txt", "", "utf-8");
 
   for (const video of videos) {
-    const length = await getVideoLength(video);
+    let length;
+    if (os.platform() === "linux") {
+      length = await getVideoLengthLinux(video);
+    } else {
+      length = await getVideoLengthWindows(video);
+    }
+    console.log(os.platform() === "linux");
     videoLength += length;
+    console.log(videoLength);
 
     // If the accumulated length exceeds 3600 seconds, increment the day
     if (videoLength > minutes) {
